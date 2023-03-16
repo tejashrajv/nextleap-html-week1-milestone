@@ -1,5 +1,5 @@
-# nextleap-html-week1-milestone
-creating the HTML code for a Flipkart Product Listing Page.
+# Nextleap HTML Week 1 Milestone
+- Creating the HTML code for a Flipkart Product Listing Page.
 
 
 ## App Functionality
